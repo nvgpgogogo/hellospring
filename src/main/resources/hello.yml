@@ -1,0 +1,17 @@
+nsf:
+  type: http
+  version: '2.0'
+  nsfServer: 'http://nsf-server-poc666.netease.com'
+  application:
+    name: hello-ncs
+    version: v1
+    projectCode: hello-work
+    envCode: prod
+    zone: default
+    group: default
+    tags: []
+  authority:
+    accessKey: 47dc6a678f024e4aa1769b096fb094e5
+    secretKey: eb19b010db774eca89147626998b61b5
+  manager:
+    patterns: []
